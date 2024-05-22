@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning verilog HDL, python, c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: uint16_t x; / unint16_t x[2];
+- 😄 Pronouns: uint16_t x; / unint16_t *x;
 - ⚡ Fun fact: dont have a job lol
 
 <!---
