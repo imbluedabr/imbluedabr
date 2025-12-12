@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imbluedabr
 - 👀 I’m interested in embeded systems and processor design
-- 🌱 I’m currently learning verilog HDL, python, c++, kernel development
+- 🌱 I’m currently learning verilog, VHDL, python, c++, kernel development
 - 💞️ I’m looking to collaborate on nothing since i am retarded
 - 😄 Pronouns: uint16_t x; / uint16_t *x;
 - ⚡ Fun fact: dont have a job lol
